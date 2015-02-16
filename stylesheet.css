@@ -1,10 +1,5 @@
-
-
-.MyList {
-  border: #000000 1px solid;
-  background-color: #acd1b2;
-  margin-right: 10px;
-  border-bottom-right-radius: 15px;
-  border-bottom-left-radius: 15px;
-
-  
+div {
+    font-size: 200px
+    font-family: verdana;
+    color: #33CC33;
+    }
